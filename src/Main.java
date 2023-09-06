@@ -51,7 +51,7 @@ public class Main {
                     "XCI", "XCII", "XCIII", "XCIV", "XCV", "XCVI", "XCVII", "XCVIII", "XCIX", "C"
             };
             return roman[numArabian];
-        }
+    }
 
 
     private static int romanToNumber (String roman) throws IOException {
